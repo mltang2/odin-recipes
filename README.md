@@ -1,4 +1,4 @@
 # odin-recipes
 
-This is a basic recipe website built with my knowledge learned from The Odin Project
+This is a basic recipe website built with skills  learned from The Odin Project
 
